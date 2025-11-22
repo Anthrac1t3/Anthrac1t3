@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anthrac1t3
-- 👀 I’m interested in: Cyber security and working as close to bare metal on a computer as I can get.
-- 🌱 I’m currently learning: 
-- 💻 I'm currently working on: [combine](https://github.com/Anthrac1t3/combine)
-- 💞️ I’m looking to collaborate on: Nothing.
+- 👀 I’m interested in: Scripting and systemc administration
+- 🌱 I’m currently learning: Docker-Compose
+- 💻 I'm currently working on: Migrating my self hosted apps from VMs and LXCs to Docker containers
+- 💞️ I’m looking to collaborate on: Nothing
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cole-holub-549396164/)
 
 <!---
